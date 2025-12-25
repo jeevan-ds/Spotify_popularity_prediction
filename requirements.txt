@@ -1,0 +1,5 @@
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- Generative AI (LLM-based recommendation generation)
